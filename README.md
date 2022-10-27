@@ -43,13 +43,26 @@ Your goal is to create a tool that helps João solve his problem in a simple way
 
 # Evaluation
 
+- Code re-usability
+- Code complexity
+- Cyclomatic Complexity
+- Performance
+- Comments
+
+### Bonus Points
+
+ - If the project is delivered using Docker, a 10% bonus will be given on this
+task.
+ - If the project is delivered using Tests, a 20% bonus will be given on this
+task.
+
 Present your solution using the framework you want, justifying your choice.
 Make sure you fulfill most of the requirements, as you can partially fulfill them and during the evaluation we will chat about what was missing.
- 
 
 Qualitative correction will be made during the interview and will take into account the following criteria:
 
-## O que será avaliado e valorizamos :heart:
+
+## What will be evaluated and valued :heart:
 - Documentation
 - If you go for a senior position, focus a lot on the **architecture drawing**
 - Clean and organized code (nomenclature, etc)
@@ -78,6 +91,10 @@ If you have not acceptably achieved what we are proposing above, we will not pro
 - Documentation
 - Proposal for architectural improvement
 
+# Deliverables
+
+When you finish your test you need to go to
+[ Deliverables here ](https://forms.clickup.com/f/6avjv-4341/FRKEFJQSCC3HIRTCXK) and fill our form.
 
 ## Useful materials
 - https://buzzvel.com/about
